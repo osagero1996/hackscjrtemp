@@ -269,15 +269,15 @@ a:focus {
   padding-right: 50px;
 }
 .btn-default {
-  border: 1px solid #A32138;
-  color: #A32138;
+  border: 1px solid #FDC442;
+  color: #FDC442;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #A32138;
+  border: 1px solid #FDC442;
   outline: none;
-  color: black;
+  color: #FDC442;
   background-color: #A32138;
 }
 ul.banner-social-buttons {
